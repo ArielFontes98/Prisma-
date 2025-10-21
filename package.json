@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "homepage": "https://ArielFontes98.github.io/Prisma-",
+  "homepage": "https://ArielFontes2198.github.io/Prisma-",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
